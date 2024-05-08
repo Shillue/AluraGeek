@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- styles css -->
+    <link rel="stylesheet" href="./css/styles.css">
+    
+    <link rel="icon" type="image/png" href="images/icon_anime.png">
+    <title>AluraGeek</title>
+</head>
+<body>
+    <div class="all">
+
+        <header class="menu">
+          <div class="home">
+            <a href="#">Home</a>
+          </div>
+          <div class="logo">
+            <div class="logo__image"></div>
+            <h1 class="logo__title">AluraGeek</h1>
+            <div class="logo__image"></div>
+          </div>  
+        </header>
+
+        <main class="container">
+
+          <!-- mostrar produtos -->
+            <section class="produtos" >
+                <h2 class="produtos__title">Meus Produtos:</h2>
+
+                <div class="produtos__box" data-lista>                
+
+                </div>  
+            </section>
+
+            <!-- adicionar produto -->
+            <section class="add__produto">
+
+              <form action="" class="formulario__add__produto" data-formulario>
+                <h2 class="formulario__add__produto__title
+                  ">Adicionar Produto:</h2>
+
+                <div class="formulario__add__produto__campo">
+                  <label for="nome" class="campo__label">Nome:</label>
+                  <span id="mensagemCaracteresNome"></span>
+                  <input type="text" class="campo__input" id="nome" name="nome" placeholder="nome..." required  data-nome maxlength="25">
+                </div>
+
+                <div class="formulario__add__produto__campo">
+                  <label for="valor" class="campo__label">Valor:</label>
+                  <input type="text" id="valor" class="campo__input" name="valor" placeholder="valor..." required data-valor>
+                </div>
+
+                <div class="formulario__add__produto__campo">
+                  <label for="imagem" class="campo__label">Url da Imagem: </label>
+                  <input name="imagem" class="campo__input" placeholder="imagem..." required data-imagem>
+                </div>
+
+                <div class="formulario__add__produto__button">
+                  <button type="submit" class="add__produto__guardar">Guardar</button>
+                  <button type="button" class="add__produto__limpar">Limpar</button>
+                </div>
+
+              </form>
+            </section>
+
+        </main>
+
+        <footer class="rodape">
+          <div class="rodape__logo">
+          <img src="./images/icon_Hearts.png" alt="Heart">
+          <h3>AluraGeek</h3>
+          <img src="./images/icon_Hearts.png" alt="Heart">
+        </div>
+        <p>Desenvolvido por Shilluê</p>
+        <p>Alura Latam - 2024</p>
+        </footer>
+    </div>
+
+    
+</body>
+</html>
