@@ -25,5 +25,5 @@
 Se quiser testa no seu computador, baixe o arquivo, é necessário ter o node instalado. Então, abra e acesse o terminal, nele digite:
 - npm init, em seguidar der enter em todas as alternativas;
 - npm install json-server
--json-server --watch db.json
+- json-server --watch db.json
 Após isso já está disponível para os testes.
