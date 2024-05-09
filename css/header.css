@@ -4,7 +4,7 @@ header.menu{
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 5.5rem;
+    height: 4.5rem;
     background-color: var(--cor-primary);
     position: relative;
     top: 0;
@@ -15,8 +15,8 @@ header.menu{
     position: absolute;
     left: 5px;
     margin: 0.8rem;
-    font-size: 2rem;
-    font-weight:600;
+    font-size: 1.2rem;
+    font-weight: 600;
     color: var(--cor-secundary);
 }
 .home:hover{
@@ -30,14 +30,14 @@ header.menu{
     justify-self: center;
 }
 .logo__image{
-    width: 120px;
+    width: 105px;
     height: 35px;
     background-image: url("../images/icon_Heart.png");
-    background-size: 40px;
+    background-size: 35px;
     background-repeat: repeat-x;
 }
 .logo__title{
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     margin: 12px;
     color: var(--cor-bg-text);
     font-family: var(--fonte-primary);
@@ -52,7 +52,6 @@ header.menu{
     }
     .logo__image{
         width: 30px;
-        height: 35px;
         background-size: 30px;
         background-repeat: no-repeat;
     }
