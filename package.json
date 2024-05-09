@@ -1,0 +1,14 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Alura Challenge - Desafio do programa \"ONE - Oracle Next Education\" da Oracle em parceria com a Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

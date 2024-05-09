@@ -1,0 +1,42 @@
+@import url('./reset.css');
+@import url('./header.css');
+@import url('./mainProdutos.css');
+@import url('./addProduto.css');
+@import url('./footer.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200; 1.300;1.400;1.500;1.600;1.700&display=swap'); 
+:root{
+    --cor-secundary:#03318C; 
+    --cor-primary:#5D04D9; 
+    --cor-primary2:#9303A6;
+    --cor-fon2:#C004D9;
+    --cor-secundary2:#8C0375;
+    --cor-bg-text:#ffff;
+    --cor-titulo-borda:black; 
+    --cor-sombra:rgb(124, 123, 123);
+    --cor-mensagemErro:red;
+    --fonte-primary:"Press Start 2P", system-ui;
+    --fonte-secundary:"IBM Plex Mono", monospace;
+}
+body {
+    box-sizing: border-box;
+    background-color: var( --cor-bg-text) ;
+    font-family:var(--fonte-secundary);
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    overflow-x: hidden;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+

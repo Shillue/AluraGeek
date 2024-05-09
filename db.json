@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Caneca do Naruto",
+      "valor": "55.30",
+      "imagem": "https://m.media-amazon.com/images/I/61yixwOc8pL.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Caneca Equipe 7 Naruto",
+      "valor": "60.10",
+      "imagem": "https://m.media-amazon.com/images/I/411rq0tSzYL._AC_.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Blusa do Super Mario",
+      "valor": "231.99",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_788548-MLB69711029145_052023-O.webp"
+    },
+    {
+      "id": "b8c8",
+      "nome": "Chaveiro Super Mario Bros",
+      "valor": "19.99",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_664654-MLB45107864710_032021-O.webp"
+    },
+    {
+      "id": "9324",
+      "nome": "Dragon Ball Z Mouse Pad",
+      "valor": "53.50",
+      "imagem": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mousepad/o/6/o/dragon-ball-z-mouse-pad-printed-mousepad-for-laptop-pc-9x7-original-imagr3nfhfhyxc9g.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "336d",
+      "nome": "Cosplay Tanjiro",
+      "valor": "373,90",
+      "imagem": "https://down-br.img.susercontent.com/file/2b0006b075040c433b0be366406b3f8b"
+    },
+    {
+      "id": "4bcb",
+      "nome": "Camisa Boku no Hero",
+      "valor": "50.00",
+      "imagem": "https://down-br.img.susercontent.com/file/c816309a16c9c16f26c2c404349ebab6"
+    },
+    {
+      "id": "4c8c",
+      "nome": "Camisa Gojo",
+      "valor": "58.29",
+      "imagem": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/h/04/a4da76e4-3568-44ec-861c-99a9b2e5acce.jpg"
+    }
+  ],
+  "removerProduto": "/remover-produto/:id"
+}

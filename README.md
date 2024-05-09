@@ -20,3 +20,10 @@
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/AluraGeek.git)
 - Live Site URL: [Add live site URL here]()
+
+# Configurando
+Se quiser testa no seu computador, baixe o arquivo, é necessário ter o node instalado. Então, abra e acesse o terminal, nele digite:
+- npm init, em seguidar der enter em todas as alternativas;
+- npm install json-server
+-json-server --watch db.json
+Após isso já está disponível para os testes.
