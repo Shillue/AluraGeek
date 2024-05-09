@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/AluraGeek.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://alura-geek-taupe-sigma.vercel.app/)
 
 # Configurando
 Se quiser testa no seu computador, baixe o arquivo, é necessário ter o node instalado. Então, abra e acesse o terminal, nele digite:
