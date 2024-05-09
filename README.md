@@ -14,7 +14,7 @@
 - Rodapé.
 
 # Pré-visualização
-
+![AluraGeek](https://github.com/Shillue/AluraGeek/assets/86475008/777abc8d-3521-422e-b20e-c6354bb6fdc3)
 
 ### Links
 
