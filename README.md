@@ -22,9 +22,9 @@
 ![AluraGeek](https://github.com/Shillue/AluraGeek/assets/86475008/777abc8d-3521-422e-b20e-c6354bb6fdc3)
 
 ### Links
+No site vai abrir apenas com dois produtos e um mensagem em razão da dependência do json-server, mas se ainda assim quiser ver é só click no link Live Site URL.
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/AluraGeek.git)
-No site vai abrir sem nenhum produtos e um mensagem em razão da dependência do json-server, mas se ainda assim quiser ver é só click no link abaixo.
 - Live Site URL: [Add live site URL here](https://alura-geek-taupe-sigma.vercel.app/)
 
 # Configurando
