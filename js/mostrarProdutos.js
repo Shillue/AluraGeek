@@ -9,7 +9,7 @@ function controiCard(produto){
         <div class="produtos__box__card__info">
             <p>${produto.nome}</p>
             <div class="produtos__box__card__descrition">
-                <p>R$${produto.valor}</p>
+                <p>R$ ${produto.valor}</p>
                 <img class="icon__lixo" src="./images/icon_lixo.png" alt="ícone de eliminação" data-id="${produto.id}">
             </div>
         </div>`;
